@@ -10,6 +10,9 @@ var rowOne = [
     'tinder',
     'grindr',
     'dating.dk',
+    'snapchat',
+    'twitch',
+    'youtube',
 ];
 
 var rowTwo = [
@@ -25,4 +28,7 @@ var rowTwo = [
     'de rige',
     'de fattige',
     'Hellerup',
+    'hunde',
+    'katte',
+    'kendte',
 ];
