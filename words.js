@@ -31,4 +31,5 @@ var rowTwo = [
     'hunde',
     'katte',
     'kendte',
+    'Køge',
 ];
