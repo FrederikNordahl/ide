@@ -6,4 +6,4 @@ Sidder du også tit og gerne vil lave din egen virksomhed, men mangler du idéen
 
 Ide Generator 4.0 er kommet!
 
-Tjek den ud: [http://ide.intelli.dk](https://ide.desperate.dk/)
+Tjek den ud: [https://ide.desperate.dk](https://ide.desperate.dk/)
